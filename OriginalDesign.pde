@@ -113,15 +113,13 @@ void tardis(){
   rect(212,257,39,45);
   rect(212,310,39,45);
   //door handle1
-  fill(29, 63, 97);
+  fill(0, 0, 0);
   rect(207,220,2,20);
   fill(217, 213, 217);
   ellipse(209,251,7,7);
   //door handle2
-  fill(29, 63, 97);
+  fill(0, 0, 0);
   rect(186,220,0.5,10);
-  fill(217, 213, 217);
-  ellipse(209,251,7,7);
   //policebox1
   fill(23, 23, 23);
   rect(130,105,145,20);
